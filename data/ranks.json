@@ -1,0 +1,26 @@
+{
+  "users": [
+    { "title": "Jane Lane", "avatar": "https://i.pravatar.cc/300?img=5" },
+    { "title": "Spicybits", "avatar": "https://i.pravatar.cc/300?img=4" },
+    { "title": "Max Triumph", "avatar": "https://i.pravatar.cc/300?img=8" },
+    { "title": "Looper", "avatar": "https://i.pravatar.cc/300?img=6" },
+    { "title": "DailyDaily", "avatar": "https://i.pravatar.cc/300?img=3" },
+    { "title": "Shooter83", "avatar": "https://i.pravatar.cc/300?img=10" },
+    { "title": "GTA2025", "avatar": "https://i.pravatar.cc/300?img=12" },
+    { "title": "Evan Slice", "avatar": "https://i.pravatar.cc/300?img=14" },
+    { "title": "CuteSword99", "avatar": "https://i.pravatar.cc/300?img=2" },
+    { "title": "Jenkooo", "avatar": "https://i.pravatar.cc/300?img=0" }
+  ],
+  "ranks": [
+    { "points": 100, "wins": 2, "losses": 7, "matches": 9, "time": 1000 },
+    { "points": 200, "wins": 3, "losses": 6, "matches": 9, "time": 2000 },
+    { "points": 300, "wins": 4, "losses": 5, "matches": 9, "time": 3000 },
+    { "points": 400, "wins": 5, "losses": 4, "matches": 9, "time": 4000 },
+    { "points": 500, "wins": 6, "losses": 3, "matches": 9, "time": 5000 },
+    { "points": 600, "wins": 7, "losses": 2, "matches": 9, "time": 6000 },
+    { "points": 700, "wins": 8, "losses": 1, "matches": 9, "time": 7000 },
+    { "points": 800, "wins": 9, "losses": 0, "matches": 9, "time": 8000 },
+    { "points": 900, "wins": 10, "losses": 0, "matches": 10, "time": 9000 },
+    { "points": 1000, "wins": 11, "losses": 0, "matches": 11, "time": 10000 }
+  ]
+}
